@@ -1,4 +1,5 @@
 # Nazrin::Kaminari
+[![Build Status](https://travis-ci.org/tsuwatch/nazrin-kaminari.svg?branch=master)](https://travis-ci.org/tsuwatch/nazrin-kaminari)
 
 Kaminari pagination generator for [nazrin](https://github.com/tsuwatch/nazrin).
 

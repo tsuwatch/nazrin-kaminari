@@ -13,4 +13,6 @@ module Nazrin
   end
 end
 
-Nazrin::PaginationGenerator.singleton_class.prepend Nazrin::PaginationGenerator::KaminariGenerator
+Nazrin::PaginationGenerator.singleton_class.prepend(
+  Nazrin::PaginationGenerator::KaminariGenerator
+)
